@@ -1,5 +1,5 @@
 # Willkommen zu Harvezz.me
-Die Website steht momentan leider und Wartung und wird so schnell wie es geht zu einer schönen übersichtlichen Seite gemacht
+Die Website steht momentan leider unter Wartung und wird so schnell wie es geht zu einer schönen übersichtlichen Seite gemacht
 
 Ideen und vorschläge was hier zusehen sein wird sind erwünscht schreibt einfach Harvey#1215 auf Discord an mit euren vorschlägen
 
