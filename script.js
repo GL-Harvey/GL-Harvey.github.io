@@ -102,7 +102,7 @@ const Reminder = () => {
         React.createElement("div", { className: "reminder-icon" },
             React.createElement("i", { className: "fa-regular fa-bell" })),
         React.createElement("span", { className: "reminder-text" },
-            "Extra cool people meeting ",
+            "Welcome to my Site ",
             React.createElement("span", { className: "reminder-time" }, "10AM"))));
 };
 const Time = () => {
@@ -189,7 +189,7 @@ const Pin = () => {
             React.createElement(PinDigit, { focused: pin.length === 2, value: pin[2] }),
             React.createElement(PinDigit, { focused: pin.length === 3, value: pin[3] })),
         React.createElement("h3", { id: "app-pin-label" },
-            "Enter PIN (1234) ",
+            "Enter PIN (6969) ",
             getErrorText(),
             " ",
             getCancelText())));
